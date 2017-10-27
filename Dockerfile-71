@@ -4,9 +4,9 @@
 #--------------------------------------------------------------------------
 #
 
-FROM php:7.1-fpm
+FROM php:7.1.10-fpm
 
-MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
+MAINTAINER Kirejko Vladimir <kirejko@gmail.com>
 
 #
 #--------------------------------------------------------------------------
