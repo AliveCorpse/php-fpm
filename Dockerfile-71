@@ -4,9 +4,9 @@
 #--------------------------------------------------------------------------
 #
 
-FROM php:7.1.11-fpm
+FROM php:7.1.12-fpm
 
-MAINTAINER Kirejko Vladimir <kirejko@gmail.com>
+LABEL MAINTAINER="Kirejko Vladimir <kirejko@gmail.com>"
 
 #
 #--------------------------------------------------------------------------
